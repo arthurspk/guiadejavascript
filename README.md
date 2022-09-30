@@ -2,7 +2,7 @@
   <a href="https://github.com/arthurspk/guiadevbrasil">
     <img src="./images/guia.png" alt="Guia Extenso de Programação https://github.com/arthurspk/guiadevbrasil" width="160" height="160">
   </a>
-  <h1 align="center">Guia do JavaScript</h1>
+  <h1 align="center">Guia do JavaScript!</h1>
 </p>
 
 Guia em construção: esse repositório ainda está em fase de desenvolvimento, em breve ele será disponibilizado para que você consiga utilizar, porém no momento a equipe do Guia Dev Brasil está trabalhando nele para trazer um conteúdo de qualidade para todas as pessoas da comunidade de tecnologia.
